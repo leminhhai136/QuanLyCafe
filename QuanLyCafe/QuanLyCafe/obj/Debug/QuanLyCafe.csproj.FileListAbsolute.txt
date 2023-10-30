@@ -1,0 +1,61 @@
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmTableManager.resources
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThongTinCaNhan.resources
+C:\Users\Admin\OneDrive\Máy tính\Tài liệu\btap c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmAdmin.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmAdmin.resources
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.frmTableManager.resources
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThongTinCaNhan.resources
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Admin\OneDrive\Máy tính\bài tập C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe (1)\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Admin\Documents\Code\C#\QuanLyCafe\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
